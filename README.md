@@ -1,5 +1,4 @@
 # Austin-Crime-Robbery
-
 This is a dive into the Robbery crimes in Austin Texas for the years 2014 - 2016
 
 
